@@ -85,7 +85,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00TD/proprietary/system_ext/lib64/libjnihelpers.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libjnihelpers.so \
     vendor/asus/X00TD/proprietary/system_ext/lib64/libmink-sock-native-api.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libmink-sock-native-api.so \
     vendor/asus/X00TD/proprietary/system_ext/lib64/libminksocket_system.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libminksocket_system.so \
-    vendor/asus/X00TD/proprietary/system_ext/lib64/libmmi.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libmmi.so \
     vendor/asus/X00TD/proprietary/system_ext/lib64/libmmosal.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libmmosal.so \
     vendor/asus/X00TD/proprietary/system_ext/lib64/libmmrtpdecoder.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libmmrtpdecoder.so \
     vendor/asus/X00TD/proprietary/system_ext/lib64/libmmrtpencoder.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libmmrtpencoder.so \
@@ -193,7 +192,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00TD/proprietary/vendor/bin/mm-pp-dpps:$(TARGET_COPY_OUT_VENDOR)/bin/mm-pp-dpps \
     vendor/asus/X00TD/proprietary/vendor/bin/mutualex:$(TARGET_COPY_OUT_VENDOR)/bin/mutualex \
     vendor/asus/X00TD/proprietary/vendor/bin/netmgrd:$(TARGET_COPY_OUT_VENDOR)/bin/netmgrd \
-    vendor/asus/X00TD/proprietary/system_ext/bin/nvram_btwifi:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/nvram_btwifi \
     vendor/asus/X00TD/proprietary/vendor/bin/pd-mapper:$(TARGET_COPY_OUT_VENDOR)/bin/pd-mapper \
     vendor/asus/X00TD/proprietary/vendor/bin/pm-proxy:$(TARGET_COPY_OUT_VENDOR)/bin/pm-proxy \
     vendor/asus/X00TD/proprietary/vendor/bin/pm-service:$(TARGET_COPY_OUT_VENDOR)/bin/pm-service \
